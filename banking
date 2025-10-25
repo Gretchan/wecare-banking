@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>We Care Educare - Banking Details</title>
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background-color: #F9D65C;
+      color: #1E2A38;
+      text-align: center;
+      padding: 20px;
+    }
+    .header {
+      background-color: #E94F37;
+      color: white;
+      padding: 20px;
+      border-radius: 12px;
+    }
+    h1 {
+      font-size: 2em;
+      margin-bottom: 0.2em;
+    }
+    .details {
+      background-color: #FFFFFF;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      max-width: 500px;
+      margin: 40px auto;
+      padding: 30px;
+      font-size: 1.1em;
+      line-height: 1.6em;
+    }
+    .footer {
+      margin-top: 30px;
+      color: #333;
+      font-size: 0.9em;
+    }
+    .highlight {
+      color: #E94F37;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>We Care Educare</h1>
+    <h2>Annual Concert Donations</h2>
+  </div>
+
+  <div class="details">
+    <h3>Banking Details</h3>
+    <p><strong>Bank:</strong> Capitec</p>
+    <p><strong>Branch Code:</strong> 470010</p>
+    <p><strong>Account Number:</strong> 1470288255</p>
+    <p><strong>Reference:</strong> Child's full name & surname</p>
+  </div>
+
+  <div class="footer">
+    <p>Thank you for supporting <span class="highlight">We Care Educare's Annual Concert</span>! 💛🎶</p>
+  </div>
+</body>
+</html>
